@@ -1,0 +1,24 @@
+23 clips in the book · 23 to make · 112 s · ~$28.00 at $0.25/s
+✓ C09 (121 frames)
+✓ C15 (97 frames)
+✓ C10 (97 frames)
+✓ C14 (121 frames)
+✓ C17 (97 frames)
+✓ C20 (145 frames)
+✓ C23 (121 frames)
+✓ C25 (121 frames)
+✓ C22 (145 frames)
+✓ C19 (121 frames)
+✓ C32 (121 frames)
+✓ C38 (97 frames)
+✓ C41 (121 frames)
+✓ C55 (121 frames)
+✓ C56 (97 frames)
+✗ C58: x HTTP 403 from https://api.x.ai/v1/videos/a78736a3-daa0-9919-bb01-ae96e5a1b795 | {"code":"permission-denied","error":"Your team 8d8452f8-eda8-451f-83e7-9bd3c8b00a3a has either used all available credits or reached its monthly spending limit. To continue making API requests, please purchase more credits or raise your spending limit."}
+✗ C33: x HTTP 403 from https://api.x.ai/v1/videos/4dd74394-e746-9070-a73d-5a2969a87750 | {"code":"permission-denied","error":"Your team 8d8452f8-eda8-451f-83e7-9bd3c8b00a3a has either used all available credits or reached its monthly spending limit. To continue making API requests, please purchase more credits or raise your spending limit."}
+✗ C69: x HTTP 403 from https://api.x.ai/v1/videos/generations | {"code":"permission-denied","error":"Your team 8d8452f8-eda8-451f-83e7-9bd3c8b00a3a has either used all available credits or reached its monthly spending limit. To continue making API requests, please purchase more credits or raise your spending limit."}
+✗ C66: x HTTP 403 from https://api.x.ai/v1/videos/generations | {"code":"permission-denied","error":"Your team 8d8452f8-eda8-451f-83e7-9bd3c8b00a3a has either used all available credits or reached its monthly spending limit. To continue making API requests, please purchase more credits or raise your spending limit."}
+✗ C72: - grok <- Bright morning. Macro of an ivory beeswax candle in a brass holder, its small flame burnin... | x HTTP 403 from https://api.x.ai/v1/videos/generations | {"code":"permission-denied","error":"Your team 8d8452f8-eda8-451f-83e7-9bd3c8b00a3a has either used all available credits or reached its monthly spending limit. To continue making API requests, please purchase more credits or raise your spending limit."}
+✗ C73: x HTTP 403 from https://api.x.ai/v1/videos/generations | {"code":"permission-denied","error":"Your team 8d8452f8-eda8-451f-83e7-9bd3c8b00a3a has either used all available credits or reached its monthly spending limit. To continue making API requests, please purchase more credits or raise your spending limit."}
+✗ C64: x HTTP 403 from https://api.x.ai/v1/videos/68d7e9a1-1c70-9835-953e-bf60330289cd | {"code":"permission-denied","error":"Your team 8d8452f8-eda8-451f-83e7-9bd3c8b00a3a has either used all available credits or reached its monthly spending limit. To continue making API requests, please purchase more credits or raise your spending limit."}
+✗ C65: x HTTP 403 from https://api.x.ai/v1/videos/d670d09a-e4dd-99a9-83d0-e8b6fe8ab170 | {"code":"permission-denied","error":"Your team 8d8452f8-eda8-451f-83e7-9bd3c8b00a3a has either used all available credits or reached its monthly spending limit. To continue making API requests, please purchase more credits or raise your spending limit."}

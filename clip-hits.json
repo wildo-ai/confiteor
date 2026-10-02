@@ -1,0 +1,49 @@
+{
+ "$what": "Where each clip's action actually happens, measured from motion energy by engine/tools/hitfind.py; the film slides each clip so this frame lands on its song hit.",
+ "C09@0.47": {
+  "asked": 0.47,
+  "measured": 0.46,
+  "how": "by eye (review round 5): the flame starts to bend at ~0.46 s; the 0.708 motion peak was the bend's apex, which put the reaction after the clank"
+ },
+ "C14@2.93": {
+  "asked": 2.93,
+  "measured": 2.792,
+  "strength": 2.23
+ },
+ "C23@0.8": {
+  "asked": 0.8,
+  "measured": 1.333,
+  "peak": 1.125,
+  "how": "contact: first frame after the motion peak where motion falls below half of it (review round 5: land the beat on contact, not on the peak)"
+ },
+ "C25@0.7": {
+  "asked": 0.7,
+  "measured": 1.292,
+  "peak": 1.167,
+  "how": "contact: first frame after the motion peak where motion falls below half of it (review round 5: land the beat on contact, not on the peak)"
+ },
+ "C58@1.0": {
+  "asked": 1.0,
+  "measured": 3.42,
+  "strength": null,
+  "how": "by eye on a 12 fps grid: the seal rests from ~2.6 s and LIFTS at 3.42 s, revealing the disc; the word lands on the reveal"
+ },
+ "C66@1.0": {
+  "asked": 1.0,
+  "measured": 1.42,
+  "strength": null,
+  "how": "by eye on a 12 fps grid: the first dust jumps off the bed at 1.42 s (motion energy was weak, 1.8)"
+ },
+ "C72@0.6": {
+  "asked": 0.6,
+  "measured": 1.55,
+  "strength": null,
+  "how": "by eye on a 12 fps grid: the flame bends from 0.75 s and goes out at 1.58 s (motion and brightness both failed: a flame is tiny and the sunbeam is brighter)"
+ },
+ "C23@3.0": {
+  "asked": 3.0,
+  "measured": 4.0,
+  "peak": 3.833,
+  "how": "contact: first frame after the motion peak where motion falls below half of it (review round 5: land the beat on contact, not on the peak)"
+ }
+}

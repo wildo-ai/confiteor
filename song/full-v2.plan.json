@@ -1,0 +1,207 @@
+{
+  "$what": "CONFITEOR full song v2: take v1-s33 sang everything but the flip. v2 rewrites the final chorus so each question stands alone, replaces 'diff' (misheard every take) with 'merge', adds Mainz's pronunciation, and stores the song for inpainting so a failed section can be regenerated alone.",
+  "model_id": "music_v2_5",
+  "respect_sections_durations": true,
+  "composition_plan": {
+    "chunks": [
+      {
+        "text": "[Intro]\n{a male Gregorian choir in unison, slow plainchant, stone cathedral reverb, no drums}\nCon-fi-te-or...\n{the choir holds one low note under everything that follows. A tired young man speaks over it, close to the microphone, slowly, every word clearly}\nI wrote... tests.\n{the choir answers, chanted}\nBe honest.\n{the young man, hesitating, clearly}\nOkay. I RAN it. Once.\n{the choir, lower}\nBe honest.\n{the young man, quietly}\nI pushed it straight to prod.\n{a calm, intimate female voice, very close, almost a whisper; then a reverse cymbal swell into the beat}\nThank you.",
+        "duration_ms": 19000,
+        "positive_styles": [
+          "gregorian chant",
+          "male monastic choir in unison",
+          "cathedral reverb",
+          "a cappella",
+          "intimate spoken word",
+          "dry close-miked voices",
+          "sparse",
+          "dramatic silence"
+        ],
+        "negative_styles": [
+          "drums",
+          "beat",
+          "synth",
+          "pop vocals",
+          "orchestra",
+          "strings"
+        ]
+      },
+      {
+        "text": "[Verse 1]\n{the beat drops on the first word, no silence; iron hand-press clank as the kick}\n{spoken, not sung: a calm, deadpan, close female voice, every word clear; \"Mainz\" is said \"Mynts\"}\nMainz, fourteen ninety-two. Three a.m. One candle.\nThe abbot writes against the press: too fast, too much to handle.\nA copy made by hand will last a thousand years.\nA monk who copies, prays. Wipe the ink away. Wipe the tears.\nHe writes it all by hand, with love, against the black machine,\nthen sends it to the printer. Mainz, fourteen ninety-four. Clean.",
+        "duration_ms": 30000,
+        "positive_styles": [
+          "dark minimal electronic",
+          "industrial",
+          "metallic iron clank as kick drum",
+          "deadpan female spoken word",
+          "rolling sub bass",
+          "hypnotic 4/4",
+          "122 bpm",
+          "clean modern mix",
+          "close dry vocal"
+        ],
+        "negative_styles": [
+          "rap",
+          "singing in the verse",
+          "guitar",
+          "pop",
+          "lo-fi",
+          "orchestral strings"
+        ]
+      },
+      {
+        "text": "[Pre-Chorus]\n{whispered, the female voice, the kick drops out, a rising riser and snare roll building fast, no silence}\nBe honest. Be honest.\n[Chorus]\n{the drop: the loudest, fullest moment so far, much bigger than the verse}\n{the female voice sings the questions, euphoric, over supersaws and the male choir}\n{a stacked crowd of male voices SHOUTS each answer}\nWho wrote the tests?\nMEA CULPA!\nWho read the code?\nMEA CULPA!\nWho held a candle to every line?\nMEA CULPA!\nBe honest...",
+        "duration_ms": 28000,
+        "positive_styles": [
+          "euphoric sung female vocal",
+          "male choir layered with supersaw synths",
+          "stacked crowd shouts",
+          "gang vocals answering",
+          "dark techno",
+          "gregorian choir meets techno",
+          "122 bpm",
+          "big chorus lift",
+          "loud drop",
+          "iron clank kick",
+          "riser into drop"
+        ],
+        "negative_styles": [
+          "rap",
+          "rock guitar",
+          "lo-fi",
+          "dubstep",
+          "orchestral strings",
+          "silence",
+          "breakdown"
+        ]
+      },
+      {
+        "text": "[Verse 2]\n{spoken, not sung: the same calm, deadpan, close female voice, bouncier, every word clear}\nTwenty-five percent. Then thirty. Then a half.\nThen three quarters of the new code. Go ahead and laugh.\nYou still read it line by line, a candle and a quill,\ngreen ticks like a rosary, and you count them still.\nLooks good to me. Amen. Works on my machine. Amen.\nShip it on a Friday, then confess it all again.",
+        "duration_ms": 28000,
+        "positive_styles": [
+          "deadpan female spoken word",
+          "dark minimal electronic",
+          "industrial",
+          "metallic iron clank as kick drum",
+          "rolling sub bass",
+          "hypnotic 4/4",
+          "122 bpm",
+          "clean modern mix",
+          "close dry vocal"
+        ],
+        "negative_styles": [
+          "rap",
+          "singing in the verse",
+          "guitar",
+          "pop",
+          "lo-fi",
+          "orchestral strings"
+        ]
+      },
+      {
+        "text": "[Pre-Chorus]\n{whispered, the female voice, the kick drops out, a riser and snare roll building fast, no silence}\nBe honest. Be honest.\n[Chorus]\n{the drop: as big as the first chorus, bigger}\n{the female voice sings the questions, euphoric, over supersaws and the male choir}\n{a stacked crowd of male voices SHOUTS each answer}\nWho wrote the tests?\nMEA CULPA!\nWho approved the merge?\nMEA CULPA!\nWho swore it worked on every machine?\nMEA CULPA!\nBe honest...",
+        "duration_ms": 28000,
+        "positive_styles": [
+          "euphoric sung female vocal",
+          "male choir layered with supersaw synths",
+          "stacked crowd shouts",
+          "gang vocals answering",
+          "dark techno",
+          "gregorian choir meets techno",
+          "122 bpm",
+          "big chorus lift",
+          "loud drop",
+          "iron clank kick",
+          "riser into drop"
+        ],
+        "negative_styles": [
+          "rap",
+          "rock guitar",
+          "lo-fi",
+          "dubstep",
+          "orchestral strings",
+          "silence",
+          "breakdown"
+        ]
+      },
+      {
+        "text": "[Bridge]\n{the beat stops dead. Only the male choir, one low held chord, cathedral reverb}\n{over it, the calm female voice, very close, spoken slowly, almost a whisper}\nIt was never about the tests.\nIt was the candle you were holding,\nin a room you called the world.\nOutside, the world is printing.\nLook up.",
+        "duration_ms": 20000,
+        "positive_styles": [
+          "gregorian choir",
+          "held choral drone",
+          "cathedral reverb",
+          "intimate spoken word",
+          "no drums",
+          "ambient",
+          "tension"
+        ],
+        "negative_styles": [
+          "drums",
+          "kick",
+          "beat",
+          "bass drop",
+          "guitar"
+        ]
+      },
+      {
+        "text": "[Break]\n{the iron clank kick returns alone, then the beat builds; stacked male voices CHANT each line, the crowd answers each with one word}\nCopied by hand.\nDEPRECATED.\nChecked by eye.\nDEPRECATED.\nRead every line.\nDEPRECATED.\n{the female voice, close, deadpan}\nAnd you?",
+        "duration_ms": 16000,
+        "positive_styles": [
+          "chanted stacked male vocals",
+          "gang vocals",
+          "industrial techno",
+          "metallic iron clank kick",
+          "building energy",
+          "hardgroove percussion",
+          "122 bpm"
+        ],
+        "negative_styles": [
+          "rap",
+          "guitar",
+          "lo-fi",
+          "strings"
+        ]
+      },
+      {
+        "text": "[Final Chorus]\n{key change up, euphoric, the biggest moment of the song}\n{the female voice sings each question slowly and clearly; the crowd and the choir answer, huge}\nBe honest!\nWho wrote the tests?\nI DID!\nWho read the code?\nI DID!\nWho's still holding the candle?\n{everything drops out; the tired young man alone, quietly, dry}\nI did.\n{a beat of silence, then the calm female voice, close, gentle}\nThank you.",
+        "duration_ms": 30000,
+        "positive_styles": [
+          "key change",
+          "euphoric sung female vocal",
+          "massive choir and crowd",
+          "supersaw synths",
+          "dark techno",
+          "gregorian choir meets techno",
+          "122 bpm",
+          "biggest chorus",
+          "sudden drop to silence"
+        ],
+        "negative_styles": [
+          "rap",
+          "rock guitar",
+          "lo-fi",
+          "dubstep",
+          "orchestral strings"
+        ]
+      },
+      {
+        "text": "[Outro]\n{the male Gregorian choir alone, slow plainchant, cathedral reverb, fading, no drums}\nCon-fi-te-or...",
+        "duration_ms": 9000,
+        "positive_styles": [
+          "gregorian chant",
+          "male monastic choir in unison",
+          "cathedral reverb",
+          "a cappella",
+          "fade out"
+        ],
+        "negative_styles": [
+          "drums",
+          "synth",
+          "beat"
+        ]
+      }
+    ]
+  },
+  "store_for_inpainting": true
+}

@@ -1,0 +1,33 @@
+{
+  "$what": "Probe 1: intro + verse 1 + pre + chorus 1 of CONFITEOR. Tests a Gregorian choir, two spoken voices and crowd shouts in one take.",
+  "model_id": "music_v2_5",
+  "respect_sections_durations": true,
+  "composition_plan": {
+    "chunks": [
+      {
+        "text": "[Intro]\n{a male Gregorian choir in unison, slow plainchant, stone cathedral reverb, no drums}\nCon-fi-te-or...\n{the choir stops. Silence. A tired young man speaks, close to the microphone, dry, no reverb}\nI wrote tests.\n{the choir, low, chanted, one held note}\nBe honest.\n{the young man, hesitating}\nI... ran it once.\n{the choir, lower}\nBe honest.\n{the young man, quietly}\nI pushed it straight to prod.\n{a short silence, then a calm, intimate female voice, very close, almost a whisper}\nThank you.",
+        "duration_ms": 18000,
+        "positive_styles": ["gregorian chant", "male monastic choir in unison", "cathedral reverb", "a cappella", "intimate spoken word", "dry close-miked voices", "sparse", "dramatic silence"],
+        "negative_styles": ["drums", "beat", "synth", "pop vocals", "orchestra", "strings"]
+      },
+      {
+        "text": "[Verse 1]\n{spoken, not sung: a calm, deadpan, close female voice, second person, every word clear; the beat enters on the first line: a heavy iron hand-press clank as the kick}\nMainz, fourteen ninety-two. Three a.m. One candle.\nThe abbot writes against the press: too fast, too much to handle.\nA copy made by hand will last a thousand years.\nA monk who copies, prays. Wipe the ink. Wipe the tears.\nHe writes it all by hand, with love, against the black machine,\nthen sends it to the printer. Mainz, fourteen ninety-four. Clean.",
+        "duration_ms": 30000,
+        "positive_styles": ["dark minimal electronic", "industrial", "metallic iron clank as kick drum", "deadpan female spoken word", "rolling sub bass", "hypnotic 4/4", "122 bpm", "clean modern mix", "close dry vocal"],
+        "negative_styles": ["rap", "singing in the verse", "guitar", "pop", "lo-fi", "orchestral strings"]
+      },
+      {
+        "text": "[Pre-Chorus]\n{whispered, the female voice, the beat thins, a rising riser}\nBe honest. Be honest.",
+        "duration_ms": 4000,
+        "positive_styles": ["whispered vocal", "rising riser", "tension build", "filter sweep"],
+        "negative_styles": ["drop", "guitar"]
+      },
+      {
+        "text": "[Chorus]\n{sung, euphoric, the female voice sings the questions over big detuned synths and the male choir; a stacked crowd of male voices SHOUTS each answer}\nWho wrote the tests?\nMEA CULPA!\nWho read the code?\nMEA CULPA!\nWho held a candle to every line?\nMEA CULPA!\nBe honest...",
+        "duration_ms": 24000,
+        "positive_styles": ["euphoric sung female vocal", "male choir layered with supersaw synths", "stacked crowd shouts", "gang vocals answering", "dark techno", "gregorian choir meets techno", "122 bpm", "big chorus lift", "iron clank kick"],
+        "negative_styles": ["rap", "rock guitar", "lo-fi", "dubstep", "orchestral strings"]
+      }
+    ]
+  }
+}

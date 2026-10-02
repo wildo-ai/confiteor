@@ -1,0 +1,80 @@
+{
+  "$what": "Probe 2: fixes from probe 1 (Whisper + spectrogram): 'I wrote tests' was swallowed; 'ran'->'drag', 'Wipe'->'White' diction; a silent seam before the chorus; the chorus quieter than the verse.",
+  "model_id": "music_v2_5",
+  "respect_sections_durations": true,
+  "composition_plan": {
+    "chunks": [
+      {
+        "text": "[Intro]\n{a male Gregorian choir in unison, slow plainchant, stone cathedral reverb, no drums}\nCon-fi-te-or...\n{the choir holds one low note under everything that follows. A tired young man speaks over it, close to the microphone, slowly, every word clearly}\nI wrote... tests.\n{the choir answers, chanted}\nBe honest.\n{the young man, hesitating, clearly}\nOkay. I RAN it. Once.\n{the choir, lower}\nBe honest.\n{the young man, quietly}\nI pushed it straight to prod.\n{a calm, intimate female voice, very close, almost a whisper; then a reverse cymbal swell into the beat}\nThank you.",
+        "duration_ms": 19000,
+        "positive_styles": [
+          "gregorian chant",
+          "male monastic choir in unison",
+          "cathedral reverb",
+          "a cappella",
+          "intimate spoken word",
+          "dry close-miked voices",
+          "sparse",
+          "dramatic silence"
+        ],
+        "negative_styles": [
+          "drums",
+          "beat",
+          "synth",
+          "pop vocals",
+          "orchestra",
+          "strings"
+        ]
+      },
+      {
+        "text": "[Verse 1]\n{the beat drops on the first word, no silence; iron hand-press clank as the kick}\n{spoken, not sung: a calm, deadpan, close female voice, every word clear}\nMainz, fourteen ninety-two. Three a.m. One candle.\nThe abbot writes against the press: too fast, too much to handle.\nA copy made by hand will last a thousand years.\nA monk who copies, prays. Wipe the ink away. Wipe the tears.\nHe writes it all by hand, with love, against the black machine,\nthen sends it to the printer. Mainz, fourteen ninety-four. Clean.",
+        "duration_ms": 30000,
+        "positive_styles": [
+          "dark minimal electronic",
+          "industrial",
+          "metallic iron clank as kick drum",
+          "deadpan female spoken word",
+          "rolling sub bass",
+          "hypnotic 4/4",
+          "122 bpm",
+          "clean modern mix",
+          "close dry vocal"
+        ],
+        "negative_styles": [
+          "rap",
+          "singing in the verse",
+          "guitar",
+          "pop",
+          "lo-fi",
+          "orchestral strings"
+        ]
+      },
+      {
+        "text": "[Pre-Chorus]\n{whispered, the female voice, the kick drops out, a rising riser and snare roll building fast, no silence}\nBe honest. Be honest.\n[Chorus]\n{the drop: the loudest, fullest moment so far, much bigger than the verse}\n{the female voice sings the questions, euphoric, over supersaws and the male choir}\n{a stacked crowd of male voices SHOUTS each answer}\nWho wrote the tests?\nMEA CULPA!\nWho read the code?\nMEA CULPA!\nWho held a candle to every line?\nMEA CULPA!\nBe honest...",
+        "duration_ms": 28000,
+        "positive_styles": [
+          "euphoric sung female vocal",
+          "male choir layered with supersaw synths",
+          "stacked crowd shouts",
+          "gang vocals answering",
+          "dark techno",
+          "gregorian choir meets techno",
+          "122 bpm",
+          "big chorus lift",
+          "loud drop",
+          "iron clank kick",
+          "riser into drop"
+        ],
+        "negative_styles": [
+          "rap",
+          "rock guitar",
+          "lo-fi",
+          "dubstep",
+          "orchestral strings",
+          "silence",
+          "breakdown"
+        ]
+      }
+    ]
+  }
+}

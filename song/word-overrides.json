@@ -1,0 +1,12 @@
+{
+  "$what": "Word times measured on the vocal stem where both clocks fail (crowd shouts). Each entry: the word, its occurrence in the take, the start in seconds, and the evidence. Read by songClock after the merge.",
+  "$evidence": "Vocal-stem RMS at 0.25 s and onsets (librosa, backtracked), take v2-44, 171-183 s: one bar per exchange, a question, a 0.4 s gap, then the answer. Onsets 174.08/174.44, 178.00/178.35, 180.0, 182.28. ElevenLabs had DID#2 at 179.84 (1.4 s late), the aligner 179.01.",
+  "overrides": [
+    { "w": "I", "after": 173.5, "n": 1, "s": 174.08 },
+    { "w": "DID!", "n": 1, "s": 174.44 },
+    { "w": "I", "after": 177.5, "n": 1, "s": 178.0 },
+    { "w": "DID!", "n": 2, "s": 178.35 },
+    { "w": "Who's", "n": 1, "s": 180.0 },
+    { "w": "did.", "n": 1, "s": 182.28 }
+  ]
+}

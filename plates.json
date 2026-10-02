@@ -1,0 +1,300 @@
+{
+ "$what": "Every plate of CONFITEOR: one image per storyboard plate id. tools/plates.mjs generates the missing ones with gpt-image-2; refs keep faces and places the same.",
+ "plates": [
+  {
+   "id": "P01",
+   "name": "candle-macro",
+   "file": "P01-candle-macro.png",
+   "refs": [],
+   "prompt": "Night, 1492, Mainz. Candlelight only. Extreme macro of a single beeswax candle flame in total darkness on an oak writing desk, a drip of wax running down, the edge of a brass inkwell catching the light. Razor-thin focus on the flame, 100mm macro. Cinematic 35mm anamorphic film still shot on Kodak Vision3, natural unprocessed skin texture, not HDR, clean and sharp, deep ink-black shadows, restrained desaturated palette in which vermilion red is the only saturated colour, fine film grain. No readable text, no letters, no numbers, no logos."
+  },
+  {
+   "id": "P07",
+   "name": "abbot-writing",
+   "file": "P07-abbot-writing.png",
+   "refs": [
+    "P06-abbot-printed-book.png"
+   ],
+   "prompt": "Night, 1492, Mainz. Candlelight only. the Abbot: an elderly Benedictine abbot with a lean severe face, deep lines, white stubble, pale grey eyes and a heavy iron ring on his right hand, in a black habit sits at a heavy oak desk in his study writing his treatise by hand with a goose quill on vellum; one candle; stacks of handwritten pages; his face intent and certain. Medium shot, three-quarter, 50mm. Cinematic 35mm anamorphic film still shot on Kodak Vision3, natural unprocessed skin texture, not HDR, clean and sharp, deep ink-black shadows, restrained desaturated palette in which vermilion red is the only saturated colour, fine film grain. No readable text, no letters, no numbers, no logos."
+  },
+  {
+   "id": "P08",
+   "name": "quill-macro",
+   "file": "P08-quill-macro.png",
+   "refs": [],
+   "prompt": "Night, 1492, Mainz. Candlelight only. Macro of a goose quill nib forming a black blackletter stroke on cream vellum, the ink still wet and glossy, a vermilion initial letter half visible at the edge; candlelight raking across the vellum texture. 100mm macro, very shallow focus. The letter shapes are abstract strokes, not readable words. Cinematic 35mm anamorphic film still shot on Kodak Vision3, natural unprocessed skin texture, not HDR, clean and sharp, deep ink-black shadows, restrained desaturated palette in which vermilion red is the only saturated colour, fine film grain. No readable text, no letters, no numbers, no logos."
+  },
+  {
+   "id": "P09",
+   "name": "monks-rows",
+   "file": "P09-monks-rows.png",
+   "refs": [],
+   "prompt": "Night, 1492, Mainz. Candlelight only. A vast vaulted medieval scriptorium seen from a high corner: long rows of slanted wooden desks, dozens of monks in black habits bent over manuscripts copying by hand, each with one candle, the candles receding into darkness like a field of small lights. Wide establishing shot, 24mm, symmetrical. Cinematic 35mm anamorphic film still shot on Kodak Vision3, natural unprocessed skin texture, not HDR, clean and sharp, deep ink-black shadows, restrained desaturated palette in which vermilion red is the only saturated colour, fine film grain. No readable text, no letters, no numbers, no logos."
+  },
+  {
+   "id": "P10",
+   "name": "monk-prays",
+   "file": "P10-monk-prays.png",
+   "refs": [],
+   "prompt": "Night, 1492, Mainz. Candlelight only. A young monk in a black habit with his hands folded in prayer over the manuscript page he has just copied, eyes closed, candlelight on the page and his knuckles. Close medium shot from slightly above, 50mm. Cinematic 35mm anamorphic film still shot on Kodak Vision3, natural unprocessed skin texture, not HDR, clean and sharp, deep ink-black shadows, restrained desaturated palette in which vermilion red is the only saturated colour, fine film grain. No readable text, no letters, no numbers, no logos."
+  },
+  {
+   "id": "P11",
+   "name": "ink-tears",
+   "file": "P11-ink-tears.png",
+   "refs": [
+    "P02-scribe-desk.png"
+   ],
+   "prompt": "Night, 1492, Mainz. Candlelight only. Close-up of the Scribe: a lean Mediterranean man in his late twenties with dark curly hair tied back at the nape, a short dark beard, tired dark eyes, ink-stained fingertips, and one thin vermilion-red thread knotted around his left wrist, in a plain dark wool tunic: exhausted, he rubs his eyes with the back of his ink-stained fingers, leaving a faint black smear of ink under one eye like a tear track; the vermilion thread visible on his wrist; one candle below his face. 85mm. Cinematic 35mm anamorphic film still shot on Kodak Vision3, natural unprocessed skin texture, not HDR, clean and sharp, deep ink-black shadows, restrained desaturated palette in which vermilion red is the only saturated colour, fine film grain. No readable text, no letters, no numbers, no logos."
+  },
+  {
+   "id": "P12",
+   "name": "black-machine",
+   "file": "P12-black-machine.png",
+   "refs": [
+    "P05-press-nave.png"
+   ],
+   "prompt": "Night, 1492, Mainz. Candlelight only. A hand printing press of 1494 alone in the dark, seen as a monster: black oak frame, the great iron screw and the bar, the platen hanging, lit only by a single lamp from below so the screw throws a huge shadow on the vaulted stone. Low angle, 24mm. No people. Cinematic 35mm anamorphic film still shot on Kodak Vision3, natural unprocessed skin texture, not HDR, clean and sharp, deep ink-black shadows, restrained desaturated palette in which vermilion red is the only saturated colour, fine film grain. No readable text, no letters, no numbers, no logos."
+  },
+  {
+   "id": "P13",
+   "name": "to-the-printer",
+   "file": "P13-to-the-printer.png",
+   "refs": [
+    "P06-abbot-printed-book.png"
+   ],
+   "prompt": "Night, 1492, Mainz. Candlelight only. the Abbot: an elderly Benedictine abbot with a lean severe face, deep lines, white stubble, pale grey eyes and a heavy iron ring on his right hand, in a black habit hands a thick stack of his handwritten pages, tied with string, to a printer in a leather apron whose hands are black with ink; between them the dark shape of the press. The exchange of the pages fills the centre. Medium two-shot, 40mm. Cinematic 35mm anamorphic film still shot on Kodak Vision3, natural unprocessed skin texture, not HDR, clean and sharp, deep ink-black shadows, restrained desaturated palette in which vermilion red is the only saturated colour, fine film grain. No readable text, no letters, no numbers, no logos."
+  },
+  {
+   "id": "P14",
+   "name": "type-case",
+   "file": "P14-type-case.png",
+   "refs": [],
+   "prompt": "Night, 1492, Mainz. Candlelight only. Overhead macro of an open wooden compositor's type case: hundreds of small lead type sorts in their compartments, a composing stick holding a line of set type, ink-dark metal glinting in lamp light. The letters are reversed and unreadable. 60mm, top-down. Cinematic 35mm anamorphic film still shot on Kodak Vision3, natural unprocessed skin texture, not HDR, clean and sharp, deep ink-black shadows, restrained desaturated palette in which vermilion red is the only saturated colour, fine film grain. No readable text, no letters, no numbers, no logos."
+  },
+  {
+   "id": "P15",
+   "name": "confessional",
+   "file": "P15-confessional.png",
+   "refs": [
+    "P03-dev-desk.png"
+   ],
+   "prompt": "Night, 2026, three in the morning. Screen light only. Inside an old carved wooden confessional booth in a dark church: the Scribe: a lean Mediterranean man in his late twenties with dark curly hair tied back at the nape, a short dark beard, tired dark eyes, ink-stained fingertips, and one thin vermilion-red thread knotted around his left wrist, in a black hoodie kneels on the step with an open laptop on the little shelf, its cold white light falling through the diamond lattice grille onto his face in a pattern of small diamonds; on the other side of the grille, darkness. Close medium shot, 50mm. Cinematic 35mm anamorphic film still shot on Kodak Vision3, natural unprocessed skin texture, not HDR, clean and sharp, deep ink-black shadows, restrained desaturated palette in which vermilion red is the only saturated colour, fine film grain. No readable text, no letters, no numbers, no logos."
+  },
+  {
+   "id": "P16",
+   "name": "cathedral-congregation",
+   "file": "P16-cathedral-congregation.png",
+   "refs": [],
+   "prompt": "Night, 2026, three in the morning. Screen light only. The nave of a vast Gothic cathedral at night filled with software developers of every age, gender, ethnicity and build (none of them resembles the Scribe), in everyday clothes, sitting in long wooden pews, each with an open laptop on the pew in front, the laptop screens lighting their faces like candles; stained glass dark above. Wide shot from the altar end looking down the nave, 24mm, symmetrical, hundreds of small screen glows. Cinematic 35mm anamorphic film still shot on Kodak Vision3, natural unprocessed skin texture, not HDR, clean and sharp, deep ink-black shadows, restrained desaturated palette in which vermilion red is the only saturated colour, fine film grain. No readable text, no letters, no numbers, no logos."
+  },
+  {
+   "id": "P17",
+   "name": "mea-culpa-row",
+   "file": "P17-mea-culpa-row.png",
+   "refs": [],
+   "prompt": "Night, 2026, three in the morning. Screen light only. A row of software developers of every age, gender, ethnicity and build (none of them resembles the Scribe), in everyday clothes standing in a cathedral pew, each striking their chest with a closed right fist at the same moment, eyes down, laptops glowing on the pew in front of them. Medium shot along the row, 50mm, the gesture in sharp focus. Cinematic 35mm anamorphic film still shot on Kodak Vision3, natural unprocessed skin texture, not HDR, clean and sharp, deep ink-black shadows, restrained desaturated palette in which vermilion red is the only saturated colour, fine film grain. No readable text, no letters, no numbers, no logos."
+  },
+  {
+   "id": "P19",
+   "name": "rosary-keyboard",
+   "file": "P19-rosary-keyboard.png",
+   "refs": [],
+   "prompt": "Night, 2026, three in the morning. Screen light only. Macro of a dark wooden rosary draped across the keys of a black laptop keyboard, the beads catching cold screen light, one bead held between an ink-stained thumb and finger with a thin vermilion thread on the wrist. 100mm macro. Cinematic 35mm anamorphic film still shot on Kodak Vision3, natural unprocessed skin texture, not HDR, clean and sharp, deep ink-black shadows, restrained desaturated palette in which vermilion red is the only saturated colour, fine film grain. No readable text, no letters, no numbers, no logos."
+  },
+  {
+   "id": "P20",
+   "name": "blessing",
+   "file": "P20-blessing.png",
+   "refs": [
+    "P06-abbot-printed-book.png"
+   ],
+   "prompt": "Night, 2026, three in the morning. Screen light only. the same elderly man as the senior engineer of 2026: lean severe face, deep lines, white stubble, pale grey eyes, the heavy iron ring on his right hand, a black turtleneck and thin reading glasses sits at a large monitor in a dim glass office, raising two fingers of his right hand like a priest giving a blessing, solemn, the screen light on his face and the iron ring. Medium close-up, 50mm. Cinematic 35mm anamorphic film still shot on Kodak Vision3, natural unprocessed skin texture, not HDR, clean and sharp, deep ink-black shadows, restrained desaturated palette in which vermilion red is the only saturated colour, fine film grain. No readable text, no letters, no numbers, no logos."
+  },
+  {
+   "id": "P21",
+   "name": "works-on-my-machine",
+   "file": "P21-works-on-my-machine.png",
+   "refs": [
+    "P03-dev-desk.png"
+   ],
+   "prompt": "Night, 2026, three in the morning. Screen light only. the Scribe: a lean Mediterranean man in his late twenties with dark curly hair tied back at the nape, a short dark beard, tired dark eyes, ink-stained fingertips, and one thin vermilion-red thread knotted around his left wrist, in a black hoodie at his desk, hands pressed together in prayer against his lips, eyes closed, over his open laptop; cold screen light. Close-up, 85mm. Cinematic 35mm anamorphic film still shot on Kodak Vision3, natural unprocessed skin texture, not HDR, clean and sharp, deep ink-black shadows, restrained desaturated palette in which vermilion red is the only saturated colour, fine film grain. No readable text, no letters, no numbers, no logos."
+  },
+  {
+   "id": "P22",
+   "name": "friday-ship",
+   "file": "P22-friday-ship.png",
+   "refs": [
+    "P03-dev-desk.png"
+   ],
+   "prompt": "Friday evening at dusk, 2026, the last purple light outside. An empty open-plan office, every chair pushed in, only the Scribe: a lean Mediterranean man in his late twenties with dark curly hair tied back at the nape, a short dark beard, tired dark eyes, ink-stained fingertips, and one thin vermilion-red thread knotted around his left wrist, in a black hoodie still at his desk in the distance; foreground: his index finger hovering one centimetre above the Enter key of a laptop. Shallow focus on the finger, 50mm. Cinematic 35mm anamorphic film still shot on Kodak Vision3, natural unprocessed skin texture, not HDR, clean and sharp, deep ink-black shadows, restrained desaturated palette in which vermilion red is the only saturated colour, fine film grain. No readable text, no letters, no numbers, no logos."
+  },
+  {
+   "id": "P23",
+   "name": "incident",
+   "file": "P23-incident.png",
+   "refs": [
+    "P03-dev-desk.png"
+   ],
+   "prompt": "Night, 2026, three in the morning. Screen light only. the Scribe: a lean Mediterranean man in his late twenties with dark curly hair tied back at the nape, a short dark beard, tired dark eyes, ink-stained fingertips, and one thin vermilion-red thread knotted around his left wrist, in a black hoodie at three in the morning, his face lit deep vermilion red by an alert on his phone screen held in front of him, the rest of the room black; dread. Close-up, 85mm. Cinematic 35mm anamorphic film still shot on Kodak Vision3, natural unprocessed skin texture, not HDR, clean and sharp, deep ink-black shadows, restrained desaturated palette in which vermilion red is the only saturated colour, fine film grain. No readable text, no letters, no numbers, no logos."
+  },
+  {
+   "id": "P24",
+   "name": "server-hall",
+   "file": "P24-server-hall.png",
+   "refs": [
+    "P05-press-nave.png"
+   ],
+   "prompt": "Night, 2026, three in the morning. Screen light only. A cavernous hall of black server racks receding into the dark like the columns of a cathedral, each rack dotted with small warm amber lights only (no red anywhere), pale cables hanging in arcs from above like drying ropes; low angle from the floor looking up the central aisle, 24mm. Composition mirrors a nave of hanging pages. No people. Cinematic 35mm anamorphic film still shot on Kodak Vision3, natural unprocessed skin texture, not HDR, clean and sharp, deep ink-black shadows, restrained desaturated palette in which vermilion red is the only saturated colour, fine film grain. No readable text, no letters, no numbers, no logos."
+  },
+  {
+   "id": "P25",
+   "name": "pages-up",
+   "file": "P25-pages-up.png",
+   "refs": [
+    "P05-press-nave.png"
+   ],
+   "prompt": "Night, 1492, Mainz. Candlelight only. Looking straight up from the floor of a stone abbey nave into thousands of freshly printed paper sheets hanging on ropes to dry, layer upon layer, receding toward the dark vaulted ceiling; warm lamp light from below. Symmetrical, 18mm. Cinematic 35mm anamorphic film still shot on Kodak Vision3, natural unprocessed skin texture, not HDR, clean and sharp, deep ink-black shadows, restrained desaturated palette in which vermilion red is the only saturated colour, fine film grain. No readable text, no letters, no numbers, no logos."
+  },
+  {
+   "id": "P26",
+   "name": "window-dawn",
+   "file": "P26-window-dawn.png",
+   "refs": [],
+   "prompt": "Grey first light before sunrise, cold and soft. The tall lancet window of a stone scriptorium at grey first light, the glass pale; below it on the sill a candle stub still burning, now weak against the dawn; an empty writing desk in silhouette. 35mm. Cinematic 35mm anamorphic film still shot on Kodak Vision3, natural unprocessed skin texture, not HDR, clean and sharp, deep ink-black shadows, restrained desaturated palette in which vermilion red is the only saturated colour, fine film grain. No readable text, no letters, no numbers, no logos."
+  },
+  {
+   "id": "P27",
+   "name": "scribe-looks-up",
+   "file": "P27-scribe-looks-up.png",
+   "refs": [
+    "P02-scribe-desk.png"
+   ],
+   "prompt": "Grey first light before sunrise, cold and soft. the Scribe: a lean Mediterranean man in his late twenties with dark curly hair tied back at the nape, a short dark beard, tired dark eyes, ink-stained fingertips, and one thin vermilion-red thread knotted around his left wrist, in a plain dark wool tunic at his writing desk, quill in hand, slowly lifting his head toward a tall window; the first grey light falls across his face from above, the candle still lit below. Medium close-up, 50mm. Cinematic 35mm anamorphic film still shot on Kodak Vision3, natural unprocessed skin texture, not HDR, clean and sharp, deep ink-black shadows, restrained desaturated palette in which vermilion red is the only saturated colour, fine film grain. No readable text, no letters, no numbers, no logos."
+  },
+  {
+   "id": "P28",
+   "name": "dev-looks-up",
+   "file": "P28-dev-looks-up.png",
+   "refs": [
+    "P03-dev-desk.png"
+   ],
+   "prompt": "Grey first light before sunrise, cold and soft. the Scribe: a lean Mediterranean man in his late twenties with dark curly hair tied back at the nape, a short dark beard, tired dark eyes, ink-stained fingertips, and one thin vermilion-red thread knotted around his left wrist, in a black hoodie at his desk in the open-plan office, lifting his head from the laptop toward the tall office windows; the first grey light of dawn falls across his face, the screen still lit below. Medium close-up, 50mm, the same composition as a scribe looking up from his manuscript. Cinematic 35mm anamorphic film still shot on Kodak Vision3, natural unprocessed skin texture, not HDR, clean and sharp, deep ink-black shadows, restrained desaturated palette in which vermilion red is the only saturated colour, fine film grain. No readable text, no letters, no numbers, no logos."
+  },
+  {
+   "id": "P29",
+   "name": "mainz-dawn",
+   "file": "P29-mainz-dawn.png",
+   "refs": [],
+   "prompt": "Grey first light before sunrise, cold and soft. View from a high window over the rooftops of medieval Mainz at dawn: steep roofs, the red sandstone cathedral towers, and from dozens of workshop chimneys thin smoke rising, many small lit windows of print shops; the Rhine pale in the distance. Wide, 35mm. Cinematic 35mm anamorphic film still shot on Kodak Vision3, natural unprocessed skin texture, not HDR, clean and sharp, deep ink-black shadows, restrained desaturated palette in which vermilion red is the only saturated colour, fine film grain. No readable text, no letters, no numbers, no logos."
+  },
+  {
+   "id": "P30",
+   "name": "city-dawn",
+   "file": "P30-city-dawn.png",
+   "refs": [
+    "P29-mainz-dawn.png"
+   ],
+   "prompt": "Grey first light before sunrise, cold and soft. View through tall office glass over Mainz today at dawn, from the same high viewpoint as a view over the medieval town: the red sandstone towers of the cathedral rising among modern office blocks and apartment roofs, cranes, thousands of small lit windows, thin steam from roofs, the Rhine pale in the distance. Nobody in the frame. Wide, 35mm. Cinematic 35mm anamorphic film still shot on Kodak Vision3, natural unprocessed skin texture, not HDR, clean and sharp, deep ink-black shadows, restrained desaturated palette in which vermilion red is the only saturated colour, fine film grain. No readable text, no letters, no numbers, no logos."
+  },
+  {
+   "id": "P31",
+   "name": "stamp",
+   "file": "P31-stamp.png",
+   "refs": [],
+   "prompt": "White dawn light, overexposed and clean. Macro of a heavy iron seal stamp coming down onto a sheet of clean cream vellum, its round face perfectly flat and blank (no letters, no symbols, no engraving), wet with vermilion ink; no impression on the vellum yet; hard white light, inky texture. 100mm macro. The impressions are abstract marks, not letters. Cinematic 35mm anamorphic film still shot on Kodak Vision3, natural unprocessed skin texture, not HDR, clean and sharp, deep ink-black shadows, restrained desaturated palette in which vermilion red is the only saturated colour, fine film grain. No readable text, no letters, no numbers, no logos."
+  },
+  {
+   "id": "P32",
+   "name": "ledger-scroll",
+   "file": "P32-ledger-scroll.png",
+   "refs": [],
+   "prompt": "White dawn light, overexposed and clean. Overhead view of a long cream vellum scroll unrolled across an oak desk, blank, with ruled faint lines ready for writing; a quill, an inkwell of black ink and a small pot of vermilion ink beside it. Top-down, 35mm, clean. Cinematic 35mm anamorphic film still shot on Kodak Vision3, natural unprocessed skin texture, not HDR, clean and sharp, deep ink-black shadows, restrained desaturated palette in which vermilion red is the only saturated colour, fine film grain. No readable text, no letters, no numbers, no logos."
+  },
+  {
+   "id": "P33",
+   "name": "eyes",
+   "file": "P33-eyes.png",
+   "refs": [
+    "P02-scribe-desk.png"
+   ],
+   "prompt": "Grey first light before sunrise, cold and soft. Extreme close-up of the eyes of the Scribe: a lean Mediterranean man in his late twenties with dark curly hair tied back at the nape, a short dark beard, tired dark eyes, ink-stained fingertips, and one thin vermilion-red thread knotted around his left wrist, in a plain dark wool tunic: one side of his face lit warm by candle from below, the other cold by dawn light from a window; he looks straight into the lens. 135mm. Cinematic 35mm anamorphic film still shot on Kodak Vision3, natural unprocessed skin texture, not HDR, clean and sharp, deep ink-black shadows, restrained desaturated palette in which vermilion red is the only saturated colour, fine film grain. No readable text, no letters, no numbers, no logos."
+  },
+  {
+   "id": "P34",
+   "name": "press-sunrise",
+   "file": "P34-press-sunrise.png",
+   "refs": [
+    "P05-press-nave.png"
+   ],
+   "prompt": "Sunrise: warm low golden light, long shadows, dust in the air. The great printing press in a stone abbey nave at sunrise, now running at full speed: printers pulling the bar, sheets flying off the bed, hundreds of printed pages hanging above lit gold by low sun through the windows, dust in the light beams. Wide, low, 24mm. Cinematic 35mm anamorphic film still shot on Kodak Vision3, natural unprocessed skin texture, not HDR, clean and sharp, deep ink-black shadows, restrained desaturated palette in which vermilion red is the only saturated colour, fine film grain. No readable text, no letters, no numbers, no logos."
+  },
+  {
+   "id": "P35",
+   "name": "servers-sunrise",
+   "file": "P35-servers-sunrise.png",
+   "refs": [],
+   "prompt": "Sunrise: warm low golden light, long shadows, dust in the air. The cavernous hall of black server racks at sunrise: the far wall has opened and low golden sunlight floods down the central aisle between the racks, catching dust in the air and the arcs of hanging cables. Low angle, 24mm. No people. Cinematic 35mm anamorphic film still shot on Kodak Vision3, natural unprocessed skin texture, not HDR, clean and sharp, deep ink-black shadows, restrained desaturated palette in which vermilion red is the only saturated colour, fine film grain. No readable text, no letters, no numbers, no logos."
+  },
+  {
+   "id": "P36",
+   "name": "candle-daylight",
+   "file": "P36-candle-daylight.png",
+   "refs": [
+    "P02-scribe-desk.png"
+   ],
+   "prompt": "Clear full morning light. the Scribe: a lean Mediterranean man in his late twenties with dark curly hair tied back at the nape, a short dark beard, tired dark eyes, ink-stained fingertips, and one thin vermilion-red thread knotted around his left wrist, in a plain dark wool tunic standing in an empty sunlit scriptorium in bright morning light, still holding in both hands an ivory candle that is clearly LIT, a small bright flame burning on its wick, tender and absurd in the daylight. Medium shot, 50mm. Cinematic 35mm anamorphic film still shot on Kodak Vision3, natural unprocessed skin texture, not HDR, clean and sharp, deep ink-black shadows, restrained desaturated palette in which vermilion red is the only saturated colour, fine film grain. No readable text, no letters, no numbers, no logos."
+  },
+  {
+   "id": "P37",
+   "name": "profile",
+   "file": "P37-profile.png",
+   "refs": [
+    "P02-scribe-desk.png"
+   ],
+   "prompt": "Sunrise: warm low golden light, long shadows, dust in the air. Profile close-up of the Scribe: a lean Mediterranean man in his late twenties with dark curly hair tied back at the nape, a short dark beard, tired dark eyes, ink-stained fingertips, and one thin vermilion-red thread knotted around his left wrist, in a plain dark wool tunic, backlit by the low sun through a window behind him, one ivory candle with ONE single wick and ONE single small flame held between his face and the sun, his eyes lowered; his lips are closed. 85mm. Cinematic 35mm anamorphic film still shot on Kodak Vision3, natural unprocessed skin texture, not HDR, clean and sharp, deep ink-black shadows, restrained desaturated palette in which vermilion red is the only saturated colour, fine film grain. No readable text, no letters, no numbers, no logos."
+  },
+  {
+   "id": "P38",
+   "name": "candle-out",
+   "file": "P38-candle-out.png",
+   "refs": [
+    "P01-candle-macro.png"
+   ],
+   "prompt": "Clear full morning light. Macro of the same pale ivory beeswax candle as the reference, just blown out: a thin ribbon of grey smoke rising and curling from the black wick into a sunbeam, the wax glossy and ivory, a brass candle holder. 100mm macro, clean. Cinematic 35mm anamorphic film still shot on Kodak Vision3, natural unprocessed skin texture, not HDR, clean and sharp, deep ink-black shadows, restrained desaturated palette in which vermilion red is the only saturated colour, fine film grain. No readable text, no letters, no numbers, no logos."
+  },
+  {
+   "id": "P39",
+   "name": "open-door",
+   "file": "P39-open-door.png",
+   "refs": [],
+   "prompt": "Clear full morning light. The heavy oak door of a stone scriptorium in Mainz standing wide open onto bright morning outside: a cobbled lane, half-timbered houses and green vineyard slopes above the Rhine in the distance; inside, an empty slanted writing desk, a quill laid down, an ivory candle stub put out with a thread of smoke. Wide, 35mm, from inside looking out. Cinematic 35mm anamorphic film still shot on Kodak Vision3, natural unprocessed skin texture, not HDR, clean and sharp, deep ink-black shadows, restrained desaturated palette in which vermilion red is the only saturated colour, fine film grain. No readable text, no letters, no numbers, no logos."
+  },
+  {
+   "id": "P40",
+   "name": "colophon",
+   "file": "P40-colophon.png",
+   "refs": [],
+   "prompt": "Clear full morning light. Overhead view of the last page of a 15th-century printed book lying open on an oak desk: the page is clean blank cream paper with NO text at all, only a small black printer's device mark (an abstract woodcut emblem with a tiny vermilion accent) in the lower third, centred; warm morning light rakes across the paper texture. Top-down, 50mm, the page fills most of the frame. Cinematic 35mm anamorphic film still shot on Kodak Vision3, natural unprocessed skin texture, not HDR, clean and sharp, deep ink-black shadows, restrained desaturated palette in which vermilion red is the only saturated colour, fine film grain. No readable text, no letters, no numbers, no logos."
+  },
+  {
+   "id": "P41",
+   "name": "glass-door-peek",
+   "file": "P41-glass-door-peek.png",
+   "refs": [
+    "P06-abbot-printed-book.png",
+    "P04-abbot-door.png"
+   ],
+   "prompt": "Night, 2026, three in the morning. Screen light only. the same elderly man as the senior engineer of 2026: lean severe face, deep lines, white stubble, pale grey eyes, the heavy iron ring on his right hand, a black turtleneck and thin reading glasses peeking around the edge of a frosted glass office door in a dark open-plan office at night, only his head, one shoulder and four fingers gripping the door frame visible, one pale eye looking straight into the lens with quiet suspicion. Locked camera at eye level, 50mm. Cinematic 35mm anamorphic film still shot on Kodak Vision3, natural unprocessed skin texture, not HDR, clean and sharp, deep ink-black shadows, restrained desaturated palette in which vermilion red is the only saturated colour, fine film grain. No readable text, no letters, no numbers, no logos."
+  },
+  {
+   "id": "P38L",
+   "name": "candle-lit",
+   "file": "P38L-candle-lit.png",
+   "refs": [
+    "P38-candle-out.png"
+   ],
+   "prompt": "Clear full morning light. Keep the exact same image as the reference (the same ivory beeswax candle, brass holder, red cloth, oak desk, sunbeam and framing), but the candle is LIT: one small steady flame burns on its wick, and there is no smoke. Cinematic 35mm anamorphic film still shot on Kodak Vision3, natural unprocessed skin texture, not HDR, clean and sharp, deep ink-black shadows, restrained desaturated palette in which vermilion red is the only saturated colour, fine film grain. No readable text, no letters, no numbers, no logos."
+  }
+ ]
+}
